@@ -1,0 +1,16 @@
+[{
+		"name": "kalyan",
+		"branch": "ECE",
+		"rollno": "53"
+	},
+	{
+		"name": "ambika",
+		"branch": "ECE",
+		"rollno": "35"
+	},
+	{
+		"name": "Satya",
+		"branch": "ECE",
+		"rollno": "8"
+	}
+]
